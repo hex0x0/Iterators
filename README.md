@@ -3,7 +3,7 @@
 ### Funções especiais (mágicas)
 
 
-![Imagem meramente ilustrativa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fiterator-in-python-658e05ecf031&psig=AOvVaw0Evj4_-3-8ZnAP_gfwxs6s&ust=1646939204984000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDj6-XcufYCFQAAAAAdAAAAABAD)
+![Imagem meramente ilustrativa](https://miro.medium.com/max/1344/1*gPRkRqdxZ_lsm4f7DAFxLQ.png)
 
 
 - [x] list comprenhesion
