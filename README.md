@@ -9,4 +9,5 @@
 - [x] list comprenhesion
 - [x] map
 - [x] Filter
+- [x] Generators 
 
